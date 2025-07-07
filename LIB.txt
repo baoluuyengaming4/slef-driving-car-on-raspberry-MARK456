@@ -1,0 +1,16 @@
+✅ Cài opencv-python
+pip install opencv-python --break-system-packages
+
+✅ Cài numpy
+pip install numpy --break-system-packages
+
+✅ Cài joblib
+pip install joblib --break-system-packages
+sudo apt update
+sudo apt install python3-picamera2
+
+✅ Cài RPi.GPIO (nếu cần)
+pip install RPi.GPIO --break-system-packages
+
+✅ Cài scikit-learn
+pip install scikit-learn --break-system-package
